@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7828483120047960829}
   - component: {fileID: 7157406472835438992}
   - component: {fileID: 4090816257701063689}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: cemento
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 712148471
   m_SortingLayer: 2
-  m_SortingOrder: 4
+  m_SortingOrder: 6
   m_Sprite: {fileID: 21300000, guid: 0a4eae4d4636ba049a3c7c72b412f93a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
